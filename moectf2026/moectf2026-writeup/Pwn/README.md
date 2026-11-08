@@ -2,9 +2,9 @@
 
 | 题目 | 分值 | 漏洞类型 | 状态 | 链接 |
 |------|------|---------|------|------|
-| 灯神的愿望 | 100 | unsigned int 下溢 | ✅ | [查看](./03_lamp_genie/writeup.md) |
-| omg电台出问题了 | 100 | strlen截断 + 函数指针覆盖 | ✅ | [查看](./omg电台出问题了/wp.md) |
-| 斯兰德先生的秘密 | 150 | 逻辑绕过 / srand 爆破 | ✅ | [查看](./01_random_seed/writeup.md) |
+| 灯神的愿望 | 100 | unsigned int 下溢 | ✅ | [查看](/03_lamp_genie/writeup.md) |
+| omg电台出问题了 | 100 | strlen截断 + 函数指针覆盖 | ✅ | [查看](/omg电台出问题了/wp.md) |
+| 斯兰德先生的秘密 | 150 | 逻辑绕过 / srand 爆破 | ✅ | [查看](/01_random_seed/writeup.md) |
 | 百万英镑 | 150 | 整数截断 + 栈溢出 | ✅ | [查看](./百万英镑/writeup.md) |
 | 小蜜蜂 | 200 | 数组越界 + PIE绕过 | ✅ | [查看](./小蜜蜂/writeup.md) |
 | ezstl | 300 | 堆溢出 + 虚表劫持 | ✅ | [查看](./ezstl/writeup.md) |
